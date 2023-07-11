@@ -1,0 +1,5 @@
+Code made in 2021
+
+To measure the technological distance, i.e., knowledge similarity, between two firms
+
+To measure the distance between two positions in the quadrant
